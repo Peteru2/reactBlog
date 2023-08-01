@@ -1,0 +1,16 @@
+{
+    "dblogs": [
+    {
+        "title" : "John the baptist",
+        "body" : "The body of Jesus",
+        "author" : "Peter",
+        "id" : 1
+    },
+    {
+        "title" : "John the baptist",
+        "body" : "The body of Jesus",
+        "author" : "Peter",
+        "id" : 1
+    }
+]
+}
