@@ -7,10 +7,10 @@
         "id" : 1
     },
     {
-        "title" : "John the baptist",
+        "title" : "The beloved John",
         "body" : "The body of Jesus",
-        "author" : "Peter",
-        "id" : 1
+        "author" : "John",
+        "id" : 2
     }
 ]
 }
