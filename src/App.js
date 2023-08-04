@@ -3,6 +3,7 @@ import Navbar from './Navbar';
 import Dashboard from './Dash';
 import Create from './create';
 import BlogDetails from './BlogDetails';
+import NotReached from './NotReached';
 import {BrowserRouter as Router, Route, Switch } from "react-router-dom"
 
 
@@ -23,7 +24,9 @@ function App() {
          <Route path = '/blogs/:id'>
             <BlogDetails  />
          </Route>
-
+        <Route>
+            <NotReached />
+        </Route>
          </Switch>
       </div>
     </div>
