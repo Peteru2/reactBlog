@@ -6,6 +6,8 @@ const BlogDetails = () => {
     const {data: blogs, isPending, error} = useFetch('http://localhost:8000/dblogs/' + id)
     const hist = useHistory()
 
+   
+    
 
     const handleDelete = () => {
     fetch('http://localhost:8000/dblogs/'+id,{
@@ -14,6 +16,7 @@ const BlogDetails = () => {
     .then(() =>{
         hist.push('/')
     })
+    
     }
     return (  
         <div className="blog-details">

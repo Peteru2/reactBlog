@@ -1,12 +1,6 @@
 {
   "dblogs": [
     {
-      "title": "John the baptist",
-      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo voluptatibus sapiente maiores iusto impedit quos hic recusandae consequatur dicta, totam eveniet provident quo similique qui est, accusamus distinctio dolorem a, quia itaque molestiae beatae. Sint aliquid illum tempora asperiores, voluptates porro blanditiis dolore obcaecati atque, animi, magni autem optio amet aut iure ex a et labore quaerat alias laborum nemo quos necessitatibus! Maxime aut, culpa dolorum at minus ratione aliquam, inventore nesciunt fuga eum reprehenderit, illo eveniet aspernatur maiores eos.",
-      "author": "Peter",
-      "id": 1
-    },
-    {
       "title": "The beloved John",
       "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo voluptatibus sapiente maiores iusto impedit quos hic recusandae consequatur dicta, totam eveniet provident quo similique qui est, accusamus distinctio dolorem a, quia itaque molestiae beatae. Sint aliquid illum tempora asperiores, voluptates porro blanditiis dolore obcaecati atque, animi, magni autem optio amet aut iure ex a et labore quaerat alias laborum nemo quos necessitatibus! Maxime aut, culpa dolorum at minus ratione aliquam, inventore nesciunt fuga eum reprehenderit, illo eveniet aspernatur maiores eos.",
       "author": "John",
@@ -23,6 +17,12 @@
       "body": "asdfasd",
       "author": "Josh",
       "id": 6
+    },
+    {
+      "title": "fasdf",
+      "body": "fdasdfas",
+      "author": "Josh",
+      "id": 7
     }
   ]
 }

@@ -4,6 +4,7 @@ import Dashboard from './Dash';
 import Create from './create';
 import BlogDetails from './BlogDetails';
 import NotReached from './NotReached';
+import Todo from './Todo';
 import {BrowserRouter as Router, Route, Switch } from "react-router-dom"
 
 
@@ -24,9 +25,15 @@ function App() {
          <Route path = '/blogs/:id'>
             <BlogDetails  />
          </Route>
-        <Route>
+         
+        <Route path = "/todo">
+            <Todo />
+        </Route>
+
+        <Route path = "*">
             <NotReached />
         </Route>
+
          </Switch>
       </div>
     </div>
